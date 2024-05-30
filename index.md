@@ -1,5 +1,7 @@
 Hi! I'm Ian Outhwaite -- I'm an MD/PhD student in Markus Seeliger's lab.
 
+![headshot](https:iouthwaite.github.io/assets/iouthwaite_headshot.png)
+
 You can contact me at: ian.outhwaite@stonybrookmedicine.edu
 
 This page is still in progress (just like my PhD) but here are a few things I've been up to in the last four year:
