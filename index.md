@@ -1,7 +1,6 @@
 Hi! I'm Ian Outhwaite -- I'm an MD/PhD student in Markus Seeliger's lab.
 
-![headshot](/assets/iouthwaite_headshot.png)
-<img src="/assets/iouthwaite_headshot.png" alt="headshot" width="200" height="200"/>
+<img src="/assets/iouthwaite_headshot.png" alt="headshot" width="400" height="400"/>
 
 You can contact me at: ian.outhwaite@stonybrookmedicine.edu
 
