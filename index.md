@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Hi! I'm Ian Outhwaite -- I'm an MD/PhD student in Markus Seeliger's lab.
 
 <img src="/assets/iouthwaite_headshot.png" alt="headshot" width="400" height="400"/>
