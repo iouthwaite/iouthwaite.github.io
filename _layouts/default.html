@@ -25,14 +25,11 @@
           <h2 id="project_title">{{ site.title | default: site.github.repository_name }}</h2>
           <h3 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h3>
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-            {% endif %}
-
-	    <li><a href="/">Home</a></li>
+	  <li>
+	    <a href="iouthwaite.github.io/index.md">Home</a>
+	    <a href="iouthwaite.github.io/About.md">About</a>
+	  </li>
+	  
 
         </header>
     </div>
@@ -56,4 +53,3 @@
   </body>
 </html><!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-{{content}}
