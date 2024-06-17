@@ -2,10 +2,10 @@
 layout: default
 ---
 
-**Cancer is a moving target.**
+**Cancer is a moving target**
 
 <p align="center">
-  <img src="assets/1000_cuts_image.png" />
+  <img src="assets/1000_cuts_picture_updated.pdf" />
 </p>
 
 Resistance can develop to even the most targeted medicines, necessitating new strategies to overcome whatever cancer can throw at us. I’m a 6th year MD/PhD student in the 4th year of my PhD training, grateful for the opportunity to generate solutions to these critical problems. My work falls into the following areas:
