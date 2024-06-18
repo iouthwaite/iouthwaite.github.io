@@ -10,9 +10,9 @@ Medical Scientist Training Program (MD/PhD: expected 2027)
 Graduate Program in Biochemistry and Structural Biology  
 Graduate Thesis Advisor: <a href = "https://you.stonybrook.edu/mseeligerlab/"> Dr. Markus Seeliger </a>
 
-2017-2019
+2017-2019   
 Memorial Sloan Kettering Cancer Center, New York NY   
-Research Technician, <a href = "https://www.mskcc.org/research/ski/labs/stephen-long">The Stephen Long Lab</a
+Research Technician, <a href = "https://www.mskcc.org/research/ski/labs/stephen-long">The Stephen Long Lab</a>
 
 2013-2017  
 Williams College, Williamstown MA  
