@@ -10,10 +10,10 @@ Resistance can develop to even the most targeted medicines, necessitating new st
 
 **1 – Evaluating drug combination synergy** 
 	
-I study how best to pick drugs to selectively inhibit multiple co-targets, optimize synergy between orthosteric and allosteric drugs at the same target, and assess bitopic (linked) compounds. 
+I study how best to pick drugs to selectively inhibit multiple co-targets, optimize synergy between orthosteric and allosteric drugs for the same target, and assess bitopic (linked) compounds. 
 
-**2 – Understandings of compound selectivity and resistance**
+**2 – Understanding drug resistance**
 
-I use structural, biochemical and biophysical technqiues to understand how drugs interact with proteins. I also study kinetics of protein-drug interactions with a particular emphasis on dissociation processes that are correlated with drug efficacy.
+I use structural, biochemical and biophysical technqiues to understand how mutations induce drug resistance and which drugs should be used to overcome specific resistance mechanisms. I also study kinetics of protein-drug interactions with a particular emphasis on dissociation processes that are correlated with drug efficacy.
 
 Check out [Projects](./Projects) to learn about the science, or [About](./About) to learn more about me

@@ -10,14 +10,14 @@ Medical Scientist Training Program (MD/PhD: expected 2027)
 Graduate Program in Biochemistry and Structural Biology  
 Graduate Thesis Advisor: <a href = "https://you.stonybrook.edu/mseeligerlab/"> Dr. Markus Seeliger </a>
 
-2017-2019  
-Research Technician  
-<a href = "https://www.mskcc.org/research/ski/labs/stephen-long">The Stephen Long Lab</a>, MSKCC
+2017-2019
+Memorial Sloan Kettering Cancer Center, New York NY   
+Research Technician, <a href = "https://www.mskcc.org/research/ski/labs/stephen-long">The Stephen Long Lab</a
 
 2013-2017  
 Williams College, Williamstown MA  
 Bachelor of Arts in Biology with Highest Honors   
-Concentration in Biochemistry and Molecular Biology
+Concentration in Biochemistry and Molecular Biology   
 Undergraduate Thesis Advisor: <a href = "https://biology.williams.edu/profile/cting/">Dr. Claire S. Ting</a>
 
 **Research Support**
