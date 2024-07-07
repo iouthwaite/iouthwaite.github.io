@@ -1,3 +1,1 @@
-This is the readme file
-
-check it out!
+site: https://iouthwaite.github.io/
