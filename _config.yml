@@ -6,6 +6,5 @@ description: MD/PhD Candidate
 relative_links:
   enabled: true
   collections: true
-include:
-  - index.md
-  - About.md
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
