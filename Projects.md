@@ -20,7 +20,9 @@ Ian R Outhwaite; Markus A Seeliger (and others)
 
 Mutations in mesenchymal epithelial transition factor (c-MET/MET) protein kinase drives many human cancers. Additionally, MET signaling can act as a backdoor that helps tumors overcome drugs targeting other common oncogenes. In this ongoing work we are defining which drugs to use to target specific MET mutations, either as solo targets or in combination with other common targets in human cancers.
 
-If you would like to learn more, view the <a href = "https://reporter.nih.gov/search/6G3vPlTURkWPY-QUCXLPtg/project-details/10824590">RePORTER page</a>
+If you would like to learn more, view the <a href = "https://reporter.nih.gov/search/wId_jHAfj0aCcvuVjx4Obw/project-details/10824590">RePORTER page</a>
+
+<hr />
 
 **Publications**
 
