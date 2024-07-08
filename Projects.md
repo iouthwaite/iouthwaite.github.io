@@ -4,7 +4,7 @@ layout: default
 
 **Key Projects**
 
-1. Maximizing Selectivity with Inhibitor Combinations
+<ins>1. Maximizing Selectivity with Inhibitor Combinations</ins>
 
 Ian R Outhwaite; Sukrit Singh; Benedict-Tilman Berger; Stefan Knapp; John D Chodera; Markus A Seeliger
 
@@ -14,7 +14,7 @@ Key finding: we can greatly improve selectivity for therapeutic co-targets using
 
 Paper <a href = "https://elifesciences.org/articles/86189">here</a>. Is target selectivity a challenge for your system of interest? Get in [Contact](./Contact)
 
-2. Targeting MET in human cancers
+<ins>2. Targeting MET in human cancers</ins>
 
 Ian R Outhwaite; Markus A Seeliger (and others)
 
@@ -39,7 +39,7 @@ Radin DP, Shifman S, **Outhwaite IR**, Sharma A, Bases R, Seeliger MA, Tsirka SE
 
 **Outhwaite IR**, Seeliger MA. Kinase Activity: Probing conformational dynamics to understand kinase inhibition. eLife. doi: https://doi.org/10.7554/eLife.92753 [insight article]
 
-Mingione VR<sup>*</sup>, Paung Y<sup>*</sup>, **Outhwaite IR<sup>*#</sup>**, Seeliger MA<sup>#</sup>. (2023) Allosteric regulation and inhibition of protein kinases. Biochem Soc Trans. doi: https://doi.org/10.1042/BST20220940 [review]
+Mingione VR<sup>*</sup>, Paung Y<sup>*</sup>, **Outhwaite IR<sup>*#</sup>**, Seeliger MA<sup>#</sup>. Allosteric regulation and inhibition of protein kinases. Biochem Soc Trans. doi: https://doi.org/10.1042/BST20220940 [review]
 
 (2022)
 
