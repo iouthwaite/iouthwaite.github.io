@@ -4,10 +4,10 @@ layout: default
 
 **Free Time**
 
-Follow the wild world of T&F. Recent WR favorites: McLaughlin-Levrone, Chebet, Mahuchikh(2.10!), and Duplantis  
-Check out the recently re-opened Prospect Park Zoo  
-Run, bike, and drag your friends on hiking trips  
-Playtest "The Publish or Perish Game" and avoid that sinking sensation of déjà vu at all costs  
+Follow the wild world of Track & Field. Recent WR favorites: McLaughlin-Levrone, Chebet, Mahuchikh(2.10!), and Duplantis   
+Check out the recently re-opened Prospect Park Zoo   
+Run, bike, and drag your friends on hiking trips   
+Playtest "The Publish or Perish Game" & avoid sinking sensation of déjà vu
 
 **Education/Training**
 
