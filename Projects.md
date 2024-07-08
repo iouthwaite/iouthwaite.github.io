@@ -22,12 +22,12 @@ Mutations in mesenchymal epithelial transition factor (c-MET/MET) protein kinase
 
 If you would like to learn more, view the <a href = "https://reporter.nih.gov/search/wId_jHAfj0aCcvuVjx4Obw/project-details/10824590">RePORTER page</a>
 
-<hr />
+<div style="border-bottom: 1px solid #333;"></div>
 
 **Publications**
 
-Here are a few things I've been up to  
-<sup>*</sup> **co-equal contribution**, <sup>#</sup> **co-corresponding**
+**<sup>*</sup>** co-equal contribution   
+**<sup>#</sup>** co-corresponding
 
 (2024)
 
