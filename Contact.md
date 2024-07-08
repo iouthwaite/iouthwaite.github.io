@@ -10,7 +10,7 @@ layout: default
 	  LinkedIn: <a href = "https://www.linkedin.com/in/ian-outhwaite"> ian-outhwaite </a>
      </div>
      <div style="flex:1;padding-right:10px;">
-          <img src="assets/talk.png" width="200">
+          <img src="assets/talkcolor.png" width="400">
      </div>
 
 
