@@ -24,9 +24,8 @@ If you would like to learn more, view the <a href = "https://reporter.nih.gov/se
 
 **Publications**
 
-Here are a few things I've been up to
-<sup>*</sup> **co-equal contribution**
-<sup>#</sup> **co-corresponding**
+Here are a few things I've been up to  
+<sup>*</sup> **co-equal contribution**, <sup>#</sup> **co-corresponding**
 
 (2024)
 
