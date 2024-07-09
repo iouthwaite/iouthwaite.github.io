@@ -4,10 +4,7 @@ layout: default
 
 **Free Time**
 
-Follow the wild world of Track & Field. Recent WR favorites: McLaughlin-Levrone, Chebet, Mahuchikh(2.10!), and Duplantis   
-Check out the recently re-opened Prospect Park Zoo   
-Run, bike, and drag your friends on hiking trips   
-Playtest "The Publish or Perish Game" & avoid sinking sensation of déjà vu
+I follow professional Track & Field. Some recent world record performances worth watching are by: McLaughlin-Levrone (400H), Chebet (10K), Mahuchikh (HJ, 2.10m!), and Duplantis (PV). I also run, bike, and drag my friends on hiking trips. Most recently, I helped playtest "The Publish or Perish Game" & tried my best to skirt an *entirely unexpected* sensation of déjà vu.
 
 **Education/Training**
 
