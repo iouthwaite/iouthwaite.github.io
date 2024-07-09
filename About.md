@@ -4,7 +4,7 @@ layout: default
 
 **Free Time**
 
-I follow professional Track & Field. Some recent world record performances worth watching are by: McLaughlin-Levrone (400H), Chebet (10K), Mahuchikh (HJ, 2.10m!), and Duplantis (PV). I also run, bike, and drag my friends on hiking trips. Most recently, I helped playtest "The Publish or Perish Game" & tried my best to skirt an *entirely unexpected* sensation of déjà vu.
+I follow professional Track & Field. Some recent WR performances worth watching are: McLaughlin-Levrone (400H), Chebet (10K), Mahuchikh (HJ, 2.10m!), and Duplantis (PV). I also run, bike, and drag friends on hiking trips. Most recently, I helped playtest "The Publish or Perish Game" & failed to skirt an *entirely unexpected* sensation of déjà vu.
 
 **Education/Training**
 

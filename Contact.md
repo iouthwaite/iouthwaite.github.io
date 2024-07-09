@@ -4,7 +4,7 @@ layout: default
 
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-     	  I work/have worked with expert teams from Stony Brook (Tsirka), MSKCC (Chodera, Long), SGC Frankfurt (Knapp), and UCSF (Shah, Shokat) among others. These opportunities are mostly due to my incredible PhD mentor, Dr. Markus Seeliger, who has shown me what collaborative science can generate. I've developed my skills at the interface of biochemistry and computational biology and I have the language to communicate accross both fields. What are we going to build? <br><br>   
+     	  I work/have worked with expert teams from Stony Brook (Tsirka), MSKCC (Chodera, Long), SGC Frankfurt (Knapp), UMD (Tiwary), and UCSF (Shah, Shokat) among others. My incredible PhD mentor, Dr. Markus Seeliger, has shown me what collaborative science can generate. I've developed skills at the interface of biochemistry and computational biology and I speak the language of both fields. What are we going to build? <br><br>   
           Get in touch: ian.outhwaite[at]stonybrookmedicine.edu <br><br>
 	  Or find out more with: <br>       
 	  Orcid: <a href = "https://orcid.org/0000-0003-2037-3261"> 0000-0003-2037-3261 </a> <br> 
