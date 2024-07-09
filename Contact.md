@@ -5,7 +5,7 @@ layout: default
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
      	  I work/have worked with expert teams from Stony Brook (Tsirka), MSKCC (Chodera, Long), SGC Frankfurt (Knapp), UMD (Tiwary), and UCSF (Shah, Shokat) among others. My incredible PhD mentor, Dr. Markus Seeliger, has shown me what collaborative science can generate. I've developed skills at the interface of biochemistry and computational biology and I speak the language of both fields. Come chat with me if you would like to collaborate. <br><br>   
-          Get in touch: ian.outhwaite[at]stonybrookmedicine.edu <br><br
+          Get in touch: ian.outhwaite[at]stonybrookmedicine.edu <br><br>
 	  Or find out more with: <br>       
 	  Orcid: <a href = "https://orcid.org/0000-0003-2037-3261"> 0000-0003-2037-3261 </a> <br> 
 	  LinkedIn: <a href = "https://www.linkedin.com/in/ian-outhwaite"> ian-outhwaite </a> <br>
