@@ -32,7 +32,9 @@ If you would like to learn more, view the <a href = "https://reporter.nih.gov/se
 
 (2024)
 
-Jennings RB<sup>*</sup>,  **Outhwaite IR<sup>*</sup>**, Granek IA, Haq F. The effects of the physical and professional workplace environments on the well-being of nursing staff. Accepted at the American Journal of Nursing, in publication.
+Leyte-Vidal1 A, DeFilippis R, **Outhwaite IR**, Kwan M-S, Lee J, Leavitt C, Miller KB, Rea D, Lou K, Shokat K, Bahar I, Seelinger MA, Shah NP. Absence of ABL1 exon 2-encoded SH3 residues in BCR::ABL1 destabilizes the autoinhibited kinase conformation and confers resistance to asciminib. Accepted at Leukemia (July 2024), in publication.
+
+Jennings RB<sup>*</sup>,  **Outhwaite IR<sup>*</sup>**, Granek IA, Haq F. The effects of the physical and professional workplace environments on the well-being of nursing staff. Accepted at the American Journal of Nursing (April 2024), in publication.
 
 Radin DP, Shifman S, **Outhwaite IR**, Sharma A, Bases R, Seeliger MA, Tsirka SE. Lucanthone, a Potential PPT1 Inhibitor, Perturbs Stemness, Reduces Tumor Microtube Formation, and Slows the Growth of Temozolomide-Resistant Gliomas In Vivo. JPET. https://doi.org/10.1124/jpet.123.002021
 
