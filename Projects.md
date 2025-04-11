@@ -32,7 +32,7 @@ If you would like to learn more, view the <a href = "https://reporter.nih.gov/se
 
 (2025)
 
-**Outhwaite IR<sup>*</sup>**, Kwan I<sup>*</sup>, Leyte-Vidal A, Shah NP, Bahar I, Seeliger MA. Resistance to Allosteric Inhibitors. <u>JMB Journal of Molecular Biology</u>. https://doi.org/10.1016/j.jmb.2025.169133
+**Outhwaite IR<sup>*</sup>**, Kwan I<sup>*</sup>, Leyte-Vidal A, Shah NP, Bahar I, Seeliger MA. Resistance to Allosteric Inhibitors. <u>JMB Journal of Molecular Biology</u>. https://doi.org/10.1016/j.jmb.2025.169133 [review article]
 
 Jennings RB<sup>*</sup>,  **Outhwaite IR<sup>*</sup>**, Granek IA, Haq F. The effects of the physical and professional workplace environments on the well-being of nursing staff. <u>AJN The American Journal of Nursing</u>. https://doi.org/10.1097/AJN.0000000000000033
 
@@ -48,7 +48,7 @@ Radin DP, Shifman S, **Outhwaite IR**, Sharma A, Bases R, Seeliger MA, Tsirka SE
 
 **Outhwaite IR**, Seeliger MA. Kinase Activity: Probing conformational dynamics to understand kinase inhibition. <u>eLife</u>. doi: https://doi.org/10.7554/eLife.92753 [insight article]
 
-Mingione VR<sup>*</sup>, Paung Y<sup>*</sup>, **Outhwaite IR<sup>*#</sup>**, Seeliger MA<sup>#</sup>. Allosteric regulation and inhibition of protein kinases. <u>Biochem Soc Trans</u>. doi: https://doi.org/10.1042/BST20220940 [review]
+Mingione VR<sup>*</sup>, Paung Y<sup>*</sup>, **Outhwaite IR<sup>*#</sup>**, Seeliger MA<sup>#</sup>. Allosteric regulation and inhibition of protein kinases. <u>Biochem Soc Trans</u>. doi: https://doi.org/10.1042/BST20220940 [review article]
 
 (2022)
 
