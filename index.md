@@ -6,7 +6,7 @@ layout: default
 
 <img src="assets/1000_cuts_picture_updated.png" width="600">
 
-Resistance can develop to even the most targeted medicines, necessitating new strategies and solutions. I’m a 6th year MD/PhD student in the 4th year of my PhD training, grateful for the opportunity to work on these critical problems. My science falls into the following areas:
+Resistance can develop to even the most targeted medicines, necessitating new strategies and solutions. I’m a MD/PhD student in year three of my clinical training post-PhD, grateful for the opportunity to work on these critical problems. My science falls into the following areas:
 
 **1 – Evaluating drug combination synergy** 
 	
