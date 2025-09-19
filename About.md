@@ -4,7 +4,7 @@ layout: default
 
 **Free Time**
 
-I follow professional Track & Field. Some recent WR performances worth watching are: McLaughlin-Levrone (400H), Chebet (10K), Mahuchikh (HJ, 2.10m!), and Duplantis (PV). I run, bike, and drag friends on hiking trips. I also catsit for friends and family and assist in croissant + paris-brest baking (and eating). Most recently, I helped playtest "The Publish or Perish Game" & failed to skirt an *entirely unexpected* sensation of déjà vu.
+I follow professional Track & Field. Watching Tokyo 2025 has been an absolute joy - from McLaughlin-Levrone dominating a historic competition, to Crouser opening his season with a gold, to Mondo hitting 6.30(!!!) and to Kipyegon and Lyles both grabbing win #4 in the 1500 and 200 respectively, there are so many stories and inspiring performances. I run, bike, and drag friends on hiking trips. I also catsit for friends and family and assist in croissant + paris-brest baking (and eating). Most recently, I helped playtest "The Publish or Perish Game" & failed to skirt an *entirely unexpected* sensation of déjà vu.
 
 **Education/Training**
 
