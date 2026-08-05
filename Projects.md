@@ -30,6 +30,14 @@ If you would like to learn more, view the <a href = "https://reporter.nih.gov/se
 **<sup>*</sup>** co-equal contribution   
 **<sup>#</sup>** co-corresponding
 
+<u>New and Upcoming</u>
+
+Stevenson JW, Lou KJ, Reynolds JA, **Outhwaite IR**, Huang K, Sokirniy I, Peterson SKY, Munir AZ, Wang CD, Inam H, Gebauer EL, Leyte-Vidal A, Rees MG, Ronan MM, Salangsang F, Zeng Y, Steri V, Roth JA, Shah NP, Echeverria I, Sali A, Zhang Z, Moslehi JJ, Seeliger MA, Pritchard JR, Shokat KM. A design approach to bitopic kinase inhibitors. <u>In review.</u>
+
+**Outhwaite IR**, Huang E, Lazarev D, Senzel LB. The Essentials of Navigating Continuity of Care During Platform Transitions. <u>In review.</u>
+
+Leyte-Vidal A, Farrell B, **Outhwaite IR**, Ojha AA, Zuidema KM, Alvarez A, Miller K, Leavitt C, Ahmadieh N, Gebauer E, Seecharan V, Kwan I, Landgraf R, Lou K, Maqsood M, Branford S, Yeung D, Hughes T, Oehler VG, Rea D, Shokat KM, Bahar I, Underbakke ES, Hanson S, Seeliger MA, Shah NP. BCR::ABL1 mutations primarily confer resistance to asciminib and TGRX-678 by disrupting allosteric inhibition. <u>In preparation.</u>
+
 (2025)
 
 **Outhwaite IR<sup>*</sup>**, Kwan I<sup>*</sup>, Leyte-Vidal A, Shah NP, Bahar I, Seeliger MA. Resistance to Allosteric Inhibitors. <u>JMB Journal of Molecular Biology</u>. https://doi.org/10.1016/j.jmb.2025.169133 [review article]
