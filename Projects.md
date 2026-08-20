@@ -32,7 +32,7 @@ If you would like to learn more, view the <a href = "https://reporter.nih.gov/se
 
 <u>New and Upcoming</u>
 
-Stevenson JW, Lou KJ, Reynolds JA, **Outhwaite IR**, Huang K, Sokirniy I, Peterson SKY, Munir AZ, Wang CD, Inam H, Gebauer EL, Leyte-Vidal A, Rees MG, Ronan MM, Salangsang F, Zeng Y, Steri V, Roth JA, Shah NP, Echeverria I, Sali A, Zhang Z, Moslehi JJ, Seeliger MA, Pritchard JR, Shokat KM. A design approach to bitopic kinase inhibitors. <u>In review.</u>
+Stevenson JW, Lou KJ, Reynolds JA, **Outhwaite IR**, Huang K, Sokirniy I, Peterson SKY, Munir AZ, Wang CD, Inam H, Gebauer EL, Leyte-Vidal A, Rees MG, Ronan MM, Salangsang F, Zeng Y, Steri V, Roth JA, Shah NP, Echeverria I, Sali A, Zhang Z, Moslehi JJ, Seeliger MA, Pritchard JR, Shokat KM. A design approach to bitopic kinase inhibitors. <u>Nature</u>. Accepted August 2026, in press
 
 **Outhwaite IR**, Huang E, Lazarev D, Senzel LB. The Essentials of Navigating Continuity of Care During Platform Transitions. <u>In review.</u>
 
