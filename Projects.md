@@ -36,9 +36,9 @@ Stevenson JW, Lou KJ, Reynolds JA, **Outhwaite IR**, Huang K, Sokirniy I, Peters
 
 **Outhwaite IR**, Huang E, Lazarev D, Senzel LB. The Essentials of Navigating Continuity of Care During Platform Transitions. <u>In review.</u>
 
-Leyte-Vidal A, Farrell B, **Outhwaite IR**, Ojha AA, Zuidema KM, Alvarez A, Miller K, Leavitt C, Ahmadieh N, Gebauer E, Seecharan V, Kwan I, Landgraf R, Lou K, Maqsood M, Branford S, Yeung D, Hughes T, Oehler VG, Rea D, Shokat KM, Bahar I, Underbakke ES, Hanson S, Seeliger MA, Shah NP. BCR::ABL1 mutations primarily confer resistance to asciminib and TGRX-678 by disrupting allosteric inhibition. <u>In preparation.</u>
+Leyte-Vidal A, Farrell B, **Outhwaite IR**, Ojha AA, Zuidema KM, Alvarez A, Miller K, Leavitt C, Ahmadieh N, Gebauer E, Seecharan V, Kwan I, Landgraf R, Lou K, Maqsood M, Branford S, Yeung D, Hughes T, Oehler VG, Rea D, Shokat KM, Bahar I, Underbakke ES, Hanson S, Seeliger MA, Shah NP. BCR::ABL1 mutations primarily confer resistance to asciminib and TGRX-678 by disrupting allosteric inhibition. <u>In review.</u>
 
-Gebauer EL, Kreitler DF, Meeks KR, Smith BP, Lee JY, Saha S, Singh S, Scheen J, Pulido I, Farrell BM, **Outhwaite IR**, Rangwala AM, Bahar I, Seeliger MA. Shoot First, Ask Later: High-Throughput Crystallography Screen Towards Identifying New Cyclophilin D Inhibitors. <u>In preparation.</u>
+Gebauer EL, Kreitler DF, Meeks KR, Smith BP, Lee JY, Saha S, Singh S, Scheen J, Pulido I, Farrell BM, **Outhwaite IR**, Rangwala AM, Bahar I, Seeliger MA. Shoot First, Ask Later: High-Throughput Crystallography Screen Towards Identifying New Cyclophilin D Inhibitors. <u>In submission.</u>
 
 (2025)
 
