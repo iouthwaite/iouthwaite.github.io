@@ -32,13 +32,15 @@ If you would like to learn more, view the <a href = "https://reporter.nih.gov/se
 
 <u>New and Upcoming</u>
 
-Stevenson JW, Lou KJ, Reynolds JA, **Outhwaite IR**, Huang K, Sokirniy I, Peterson SKY, Munir AZ, Wang CD, Inam H, Gebauer EL, Leyte-Vidal A, Rees MG, Ronan MM, Salangsang F, Zeng Y, Steri V, Roth JA, Shah NP, Echeverria I, Sali A, Zhang Z, Moslehi JJ, Seeliger MA, Pritchard JR, Shokat KM. A design approach to bitopic kinase inhibitors. <u>Nature</u>. Accepted August 2026, in press
-
 **Outhwaite IR**, Huang E, Lazarev D, Senzel LB. The Essentials of Navigating Continuity of Care During Platform Transitions. <u>In review.</u>
 
 Leyte-Vidal A, Farrell B, **Outhwaite IR**, Ojha AA, Zuidema KM, Alvarez A, Miller K, Leavitt C, Ahmadieh N, Gebauer E, Seecharan V, Kwan I, Landgraf R, Lou K, Maqsood M, Branford S, Yeung D, Hughes T, Oehler VG, Rea D, Shokat KM, Bahar I, Underbakke ES, Hanson S, Seeliger MA, Shah NP. BCR::ABL1 mutations primarily confer resistance to asciminib and TGRX-678 by disrupting allosteric inhibition. <u>In review.</u>
 
 Gebauer EL, Kreitler DF, Meeks KR, Smith BP, Lee JY, Saha S, Singh S, Scheen J, Pulido I, Farrell BM, **Outhwaite IR**, Rangwala AM, Bahar I, Seeliger MA. High-Throughput Crystallographic Fragment Screening of Cyclophilin D: A Structural Atlas and Resource for Inhibitor Discovery. <u>In review.</u>
+
+(2026)
+
+Stevenson JW, Lou KJ, Reynolds JA, **Outhwaite IR**, Huang K, Sokirniy I, Peterson SKY, Munir AZ, Wang CD, Inam H, Gebauer EL, Leyte-Vidal A, Rees MG, Ronan MM, Salangsang F, Zeng Y, Steri V, Roth JA, Shah NP, Echeverria I, Sali A, Zhang Z, Moslehi JJ, Seeliger MA, Pritchard JR, Shokat KM. A design approach to bitopic kinase inhibitors. <u>Nature</u>. https://doi.org/10.1038/s41586-026-11056-8
 
 (2025)
 
